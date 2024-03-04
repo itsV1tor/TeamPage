@@ -6,4 +6,28 @@
 
 <h3 align='center' >TECHNOLOGIES</h3>
 
-## How to Us
+## How to Use
+
+1. Clone the repository: `git clone https://github.com/itsV1tor/StudioGhibliHub.git`
+2. Navigate to the project directory: `cd StudioGhibliHub`
+3. Install dependencies: `npm install`
+4. Run lite-server and Tailwind CSS build:
+
+   ```bash
+   # Run lite-server
+   npm run dev
+
+   # Build Tailwind CSS
+   npm run tailwind
+5. Enjoy :)
+   
+</br>
+
+## Technologies
+
+  - HTML
+  - Tailwind CSS
+  - JavaScript
+  - NodeJS
+  - Lite Server
+  - GSAP
