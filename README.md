@@ -21,3 +21,7 @@
   - JavaScript
   - GSAP
 
+</br>
+
+## Contributions
+Contributions are welcome! If you'd like to contribute, please open an issue or submit a pull request :)
